@@ -41,9 +41,9 @@ python train.py
 ## Testing
 Download the weights from [Google Drive Link](https://drive.google.com/drive/folders/1aS0s7D3SweV9bGDepHgGXjgGHrfBtSg_?usp=sharing) or [Baiduyun Link](https://pan.baidu.com/s/15p-IX9yz82rm96k3BnefTQ) (extract code: `inc0`) and move it into the `checkpoint_save/`.
 
-- **profact.pth** &emsp; MBH Datasets (50K+5K) for two-stage training.
+- **profact.pth** &emsp; The MBH−COCO and  MBH−RAISE datasets (50K+5K) for two-stage training.
 - **profact_casia2.pth** &emsp;  Only CASIAv2 for one-stage training.
-- **profact_ex.pth** &emsp; Publicly available datasets (in alignment with [TruFor](https://github.com/grip-unina/TruFor) and [CAT-Net](https://github.com/mjkwon2021/CAT-Net)), including CASIAv2, IMD, and FantasticReality, to extend the MBH Datasets for two-stage training.
+- **profact_ex.pth** &emsp; Publicly available datasets (in alignment with [TruFor](https://github.com/grip-unina/TruFor) and [CAT-Net](https://github.com/mjkwon2021/CAT-Net)), including CASIAv2, IMD, and FantasticReality, to extend the MBH−COCO and  MBH−RAISE datasets for two-stage training.
 
 For training models with only one stage, run:
 ```bash
