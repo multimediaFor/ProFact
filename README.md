@@ -1,5 +1,5 @@
 ## Progressive Feedback Enhanced Transformer for Image Forgery Localization  
-An official implementation code for paper "Progressive Feedback Enhanced Transformer for Image Forgery Localization".
+An official implementation code for paper "[Progressive Feedback Enhanced Transformer for Image Forgery Localization](https://arxiv.org/abs/2311.08910)".
 This repo will provide <B>codes, pretrained/trained weights, and our training datasets</B>. 
 
 ## Network Architecture
